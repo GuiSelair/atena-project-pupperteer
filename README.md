@@ -1,5 +1,5 @@
 <div align="center">
-	<img src=".github/athena.png" alt="Atena"/>
+	<img src=".github/athena-project-cover.png" alt="Atena"/>
 	<br/>
 	<br/>
 	<h1><strong>Projeto Atena - Pupperteer</strong></h1>
