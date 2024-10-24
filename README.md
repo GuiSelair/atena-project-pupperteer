@@ -1,10 +1,8 @@
-# Projeto Atena - Pupperteer
-
 <div align="center">
 	<img src=".github/athena.png" alt="Atena"/>
 	<br/>
 	<br/>
-	<h1><strong>React Leaflet</strong></h1>
+	<h1><strong>Projeto Atena - Pupperteer</strong></h1>
 	<a href="" target="_blank">Acesse a demonstração</a>
 </div>
 
