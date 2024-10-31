@@ -3,7 +3,6 @@
 	<br/>
 	<br/>
 	<h1><strong>Projeto Atena - Pupperteer</strong></h1>
-	<a href="" target="_blank">Acesse a demonstração</a>
 </div>
 
 ## **INTRODUÇÃO**
