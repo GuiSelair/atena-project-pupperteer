@@ -2,7 +2,7 @@
 	<img src=".github/athena-project-cover.png" alt="Atena"/>
 	<br/>
 	<br/>
-	<h1><strong>Projeto Atena - Pupperteer</strong></h1>
+	<h1><strong>Projeto Atena - Puppeteer</strong></h1>
 </div>
 
 ## **INTRODUÇÃO**
